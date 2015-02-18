@@ -1,0 +1,9 @@
+This program will use a database called SalesDB.  
+The application will allow the user to display 
+sales information for any customer on file.  
+Specifically, the user will select a customer 
+from a drop-down list (filled by reading the 
+customer file in the database), and after 
+selection of a customer the sales records on 
+file from the sales_order table (for that customer)
+ will be displayed in a JTable below the selection box. 
